@@ -1,2 +1,4 @@
-# BankApp
-Personal Project of mine to practice and test my skills
+- ASP.NET Core Web API + C#
+- Next.js + TypeScript + Tailwind CSS
+- JWT authentication with role-based access (Admin, Teller, Customer)
+- CI/CD with GitHub Actions + Vercel
